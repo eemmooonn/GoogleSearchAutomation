@@ -1,6 +1,6 @@
 # Google Search Automation
 
-This program will automate "Google Search". These are the follwing works it will do:
+This program will automate "Google Search". These are the follwing things it will do:
 
 1. It will take a KEYWORD from Excel Sheet based on the current week day. 
    (Example: If today is Friday, it will take the KEYWORDS from Fridays sheet.)
