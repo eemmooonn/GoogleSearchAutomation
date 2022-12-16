@@ -12,3 +12,10 @@ This program will automate "Google Search". These are the follwing works it will
 4. After that it will store the "Shortest" and "Longest" search result on the same excel sheet for that keyword.
 
 5. Similarly, it will do the same thing for all the keywords.
+
+
+
+
+• Language Used: JAVA
+
+• Libraries Used: Selenium, Selenium Locators, Apache POI
