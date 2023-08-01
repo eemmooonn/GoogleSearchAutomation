@@ -14,6 +14,6 @@ This program will automate Google Search Based on The Given Excel File. These ar
 - Similarly, it will do the same thing for all the keywords.
 
 
-Language Used: **JAVA** **Python**
+Language Used: **JAVA** and **Python**
 
 Libraries Used: **Selenium, Selenium Locators, Apache POI**
