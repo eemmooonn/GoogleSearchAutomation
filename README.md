@@ -1,6 +1,4 @@
 **Google Search Automation Based on The Excel File**
-<img src="/2.%20Google%20Search%20Automation%20Based%20on%20The%20Excel%20File/logo/googleSearchLogo.jpg" width=200 height=100><img src="/2.%20Google%20Search%20Automation%20Based%20on%20The%20Excel%20File/logo/excelLogo.png" width=70 height=70>
-
 
 This program will automate Google Search Based on The Given Excel File. These are the follwing things it will do:
 
